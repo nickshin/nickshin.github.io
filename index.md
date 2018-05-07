@@ -36,7 +36,7 @@ _( Project Stormshadow - will have descriptions soon )_
 
 #### Contact Me
 
-*   nick.shin@gmail.com[](mailto:nick.shin@gmail.com?subject=Hi - from nickshin.com)
+*   nick.shin@gmail.com
 
 * * *
 
