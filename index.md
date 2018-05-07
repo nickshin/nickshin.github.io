@@ -10,7 +10,7 @@ Welcome to www.NickShin.com !
 
 #### Stuff I Like
 
-*   [My Bookmarks](./bookmarks.html)
+*   [My Bookmarks](https://nickshin.com/bookmark_tools/demo/index.html)
 *   [Favorite Tunes](https://soundcloud.com/nickshin/sets/tunes-to-code-to)
 *   [Favorite Vids](https://www.youtube.com/channel/UCATtL8-Jx-uCC1fzLbmrzzg/playlists)
 
