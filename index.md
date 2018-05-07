@@ -4,9 +4,9 @@ Welcome to www.NickShin.com !
 
 #### binary language of moisture evaporators
 
-*   [my programming cheatsheets](https://github.com/nickshin/cheatsheets).
-*   [github personal](https://github.com/nickshin).
-*   [github professional](https://github.com/nickshinpho).
+*   [my programming cheatsheets](https://github.com/nickshin/cheatsheets)
+*   [github personal](https://github.com/nickshin)
+*   [github professional](https://github.com/nickshinpho)
 
 #### Stuff I Like
 
@@ -36,7 +36,7 @@ _( Project Stormshadow - will have descriptions soon )_
 
 #### Contact Me
 
-*   [nick.shin@gmail.com](mailto:nick.shin@gmail.com?subject=Hi - from nickshin.com)
+*   nick.shin@gmail.com[](mailto:nick.shin@gmail.com?subject=Hi - from nickshin.com)
 
 * * *
 
