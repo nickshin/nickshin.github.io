@@ -22,7 +22,7 @@ Welcome to www.NickShin.com !
 
 #### show n tell
 
-*   Car #1:[](http://www.factoryfive.com/coupehome.html)
+*   Car #1:
 [Type 65 Coupe](https://photos.google.com/album/AF1QipNye5ztVBzx4vO978-8dxryPjvcS_eLbX9X2HzL)
 _( Project Stormshadow - will have descriptions soon )_
 
