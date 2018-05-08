@@ -4,9 +4,9 @@ Welcome to www.NickShin.com !
 
 #### binary language of moisture evaporators
 
-*   [my programming cheatsheets](https://github.com/nickshin/cheatsheets)
-*   [github personal](https://github.com/nickshin)
-*   [github professional](https://github.com/nickshinpho)
+*   [my programming cheatsheets](https://github.com/nickshin/CheatSheets/)
+*   [github personal](https://github.com/nickshin/)
+*   [github professional](https://github.com/nickshinpho/)
 
 #### Stuff I Like
 
@@ -22,7 +22,7 @@ Welcome to www.NickShin.com !
 
 #### show n tell
 
-*   Car #1:[](http://www.factoryfive.com/coupehome.html)
+*   Car #1:
 [Type 65 Coupe](https://photos.google.com/album/AF1QipNye5ztVBzx4vO978-8dxryPjvcS_eLbX9X2HzL)
 _( Project Stormshadow - will have descriptions soon )_
 
@@ -37,8 +37,6 @@ _( Project Stormshadow - will have descriptions soon )_
 #### Contact Me
 
 *   nick.shin@gmail.com
-
-* * *
 
 ```
 Thanks for visiting!
