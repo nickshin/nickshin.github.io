@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body { background:#fff; }
+
+#main_content > .header-level-1:first-child {
+	background:#000;
+	color:#fff;
+	border-top:.2em double #fff;
+	border-bottom-color:#fff;
+	padding-top: 10px;
+}
+
+.header-level-2 { color:#000; }
+
+a#forkme_banner, header span.ribbon-outer, footer, div#no-downloads, span.banner-fix { display:none; }
+
