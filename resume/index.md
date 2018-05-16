@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Nick Shin's Resume"
+---
+
 # Nick Shin's Resume
 
 This is the "one page" version: <https://www.nickshin.com/resume/><br>
@@ -69,7 +74,7 @@ Yet, am business conscience by keeping an eye on the company's needs, by being a
 #### LuxoFlux Studio (2008-2009) _Networking and Gameplay Engineer_
 - Transformers 2: Rise of the Fallen
 - integrated Xbox Live and Playstation Network connectivity for multiplayer gamemode
-- **join in progress and host migration, packet crafting/message shaping, invites, friends, parental controls, voice/chat and more**
+- **join in progress and host migration, packet crafting/message shaping, invites, friends, parental controls, voice/chat** and more
 
 #### Midway Games (2001-2007) _Systems and Gameplay Engineer_
 - **Mortal Kombat vs DC Universe**
