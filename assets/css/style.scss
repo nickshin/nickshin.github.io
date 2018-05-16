@@ -19,4 +19,10 @@ a#forkme_banner, header span.ribbon-outer, footer, div#no-downloads, span.banner
 
 div.shell { width: 100%; }
 
-hr { border-width: .2em; border-style: double; background-image: none; background-color: #d3ccc1; }
+hr {
+	border-width: .1em;
+	border-style: solid;
+	background-image: none;
+	background-color: #d3ccc1;
+	height: 0;
+}
