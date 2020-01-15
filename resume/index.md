@@ -60,9 +60,13 @@ Yet, am business conscience by keeping an eye on the company's needs, by being a
 ## Work Experience
 
 #### Phosphor Games (2015-current) - _Principal Software Engineer_
-- Platform Developer **Epic Games**: Unreal Engine 4.10 - 4.20 (HTML5 platform)
+- Apple Arcade: (internal projects - soon to released!) optimizations and performance engineering
+- **Epic Games** HTML5 Platform Developer: Unreal Engine 4.10 - 4.24
 	- HTML5 **emscripten** integration with web assembly and webgl2 features
 	- try the [Zen Garden](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html) demo
+	- authored [UE4 HTML5 HowTo](https://github.com/UnrealEngineHTML5/Documentation/tree/master/Platforms/HTML5/HowTo)
+	- "Community Supported" [HTML5 platform repository](https://github.com/UnrealEngineHTML5/UnrealEngine) maintainer
+		- (NOTE: must have Epic Games licensed account approval to access this restricted repo)
 - Gemini: Heroes Reborn (**PlayStation4**, XboxOne, PC, Unreal Engine 4.9)
 
 #### Scientific Gaming/WMS industry (2010-2014) - _Principal Software Engineer_
